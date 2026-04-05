@@ -14,8 +14,8 @@ import {
   User,
   Building
 } from 'lucide-react'
-import Navbar from '@/components/layout/navbar'
-import Footer from '@/components/layout/footer'
+import Navbar from '../../components/layout/navbar'
+import Footer from '../../components/layout/footer'
 
 const contactMethods = [
   {

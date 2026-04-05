@@ -14,8 +14,8 @@ import {
   Eye,
   EyeOff
 } from 'lucide-react'
-import Navbar from '@/components/layout/navbar'
-import Footer from '@/components/layout/footer'
+import Navbar from '../../components/layout/navbar'
+import Footer from '../../components/layout/footer'
 import Link from 'next/link'
 
 const benefits = [
